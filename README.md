@@ -2,7 +2,7 @@
 
 ![PreSum Preview](/assets/ss/presum.png)
 
-A while ago, I developed this app. I initially published it on the Play Store, but later decided to share the code on GitHub. The app is no longer maintained.
+Long ago, I developed this app. I initially published it on the Play Store, but later decided to share the code on GitHub. The app is no longer maintained.
 
 You are free to use this code and customize it as you wish.
 
